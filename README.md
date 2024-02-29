@@ -105,13 +105,13 @@ main {
    <section id="history">
             <h2>History</h2>
             <p>Uncover the tales of civilizations, kingdoms, and empires that have shaped our world. From ancient Mesopotamia to the Renaissance era, explore the triumphs and tribulations of humanity's journey through time.</p>
-            <img src="historyyy.webp" alt="History Image" width="100" height="100">
+           
         </section>
 
   <section id="art">
             <h2>Art & Architecture</h2>
             <p>Marvel at the masterpieces of ancient artisans and the grandeur of architectural wonders. From the Pyramids of Giza to the Taj Mahal, behold the beauty and ingenuity of human creativity across different cultures and epochs.</p>
-            <img src="R.jpg" alt="History Image" width="100" height="100">
+            
         </section>
 
   <section id="festivals">
